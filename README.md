@@ -29,8 +29,8 @@ La struttura generalizzata del progetto è la seguente:
 
 E’ stato utilizzato per sviluppare il progetto Qt Creator 9.0.1 con versione di Qt 6.4.1. Se viene
 utilizzata una versione inferiore a Qt 6, la parte riguardante QtCharts necessita una modifica
-per il suo corretto funzionamento come segue: https://doc.qt.io/qt-6/qtcharts-changes-
-qt6.html, ovvero l’inclusione del namespace di QtCharts. Esso è commentato nel file header
+per il suo corretto funzionamento come segue: https://doc.qt.io/qt-6/qtcharts-changes-qt6.html, 
+ovvero l’inclusione del namespace di QtCharts. Esso è commentato nel file header
 “confronta.h”. Il progetto è stato testato in modalità debug e release con la spunta su shadow
 build nelle proprietà rimossa (per accesso più semplice al file.csv) in un ambiente Windows 11
 e Ubuntu Linux.
