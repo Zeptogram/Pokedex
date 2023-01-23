@@ -1,0 +1,3 @@
+Versione di Qt superiore o uguale alla 6.
+Nel caso si utilizzi una versione inferiore includere nel file "confronta.h" : using namespace QtCharts;
+Da eseguire senza shadow-build
