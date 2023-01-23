@@ -1,7 +1,7 @@
 # Pokedex
 A simple pokedex viewer, with types filtering and comparation between two pokemons.
 
-Made by Elio Gargiulo for UNIMIB C++ Course. Grade 5/5
+Made by Elio Gargiulo for UNIMIB C++ Course. Grade: 5/5
 
 # Introduzione
 Il Progetto Qt Pokedex tratta la realizzazione e progettazione di un’interfaccia grafica per la
